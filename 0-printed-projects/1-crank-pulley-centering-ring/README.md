@@ -10,44 +10,56 @@ The part was printed with slim tree supports. Those supports left residue on one
 ## Gallery
 
 ### Timelapse
-<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:1rem; align-items:flex-start; margin:0;">
-  <div style="flex:1 1 220px; max-width:220px; text-align:center;">
-    <img src="accessory-belt-on-pulley.gif" height="200" alt="Accessory belt on pulley timelapse" style="width:auto; height:200px;">
-  </div>
-  <div style="flex:1 1 220px; max-width:220px; text-align:center;">
-    <img src="centering-ring-3d-printed-with-supports.gif" height="200" alt="3D print timelapse" style="width:auto; height:200px;">
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <img src="accessory-belt-on-pulley.gif" height="200" alt="Accessory belt on pulley timelapse">
+    </td>
+    <td align="center" valign="top">
+      <img src="centering-ring-3d-printed-with-supports.gif" height="200" alt="3D print timelapse">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">Accessory Belt on Pulley</td>
+    <td align="center">3D Print Timelapse</td>
+  </tr>
+</table>
 
 ### Model & Fitment
-<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:1rem; align-items:flex-start; margin:0;">
-  <div style="flex:1 1 220px; max-width:220px; text-align:center;">
-    <img src="centering-ring-f360.png" height="200" alt="Model" style="width:auto; height:200px;">
-  </div>
-  <div style="flex:1 1 220px; max-width:220px; text-align:center;">
-    <img src="3d-printed-centering-ring-fit-in-pulley.png" height="200" alt="model fitment on pulley" style="width:auto; height:200px;">
-  </div>
-  <div style="flex:1 1 220px; max-width:220px; text-align:center;">
-    <img src="balancer-depth-measured-with-feeler-gauge.png" height="200" alt="Balancer being measured" style="width:auto; height:200px;">
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <img src="centering-ring-f360.png" height="200" alt="Model">
+    </td>
+    <td align="center" valign="top">
+      <img src="3d-printed-centering-ring-fit-in-pulley.png" height="200" alt="Model fitment on pulley">
+    </td>
+    <td align="center" valign="top">
+      <img src="balancer-depth-measured-with-feeler-gauge.png" height="200" alt="Balancer being measured">
+    </td>
+  </tr>
+</table>
 
 ### Tools
 
-<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:1rem; align-items:flex-start; margin:0;">
-  <div style="flex:1 1 140px; max-width:140px; text-align:center;">
-    <img src="digital-caliper.png" height="100" alt="Caliper" style="width:auto; height:100px;">
-    <div style="font-size:90%; margin-top:0.35rem;">Digital Caliper</div>
-  </div>
-  <div style="flex:1 1 140px; max-width:140px; text-align:center;">
-    <img src="feeler-gauge.png" height="100" alt="Feeler Gauge" style="width:auto; height:100px;">
-    <div style="font-size:90%; margin-top:0.35rem;">Feeler Gauge</div>
-  </div>
-  <div style="flex:1 1 140px; max-width:140px; text-align:center;">
-    <img src="dial-indicator.png" height="100" alt="Dial Indicator" style="width:auto; height:100px;">
-    <div style="font-size:90%; margin-top:0.35rem;">Dial Indicator</div>
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <img src="digital-caliper.png" height="100" alt="Caliper">
+    </td>
+    <td align="center" valign="top">
+      <img src="feeler-gauge.png" height="100" alt="Feeler Gauge">
+    </td>
+    <td align="center" valign="top">
+      <img src="dial-indicator.png" height="100" alt="Dial Indicator">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">Digital Caliper</td>
+    <td align="center">Feeler Gauge</td>
+    <td align="center">Dial Indicator</td>
+  </tr>
+</table>
 
 ## Measurements and Calculations
 The following image details the precision measurements taken with calipers and feeler gauges to spec out the centering ring and determine the exact thickness required to be added to the 3D printed part to ensure a perfect sandwich fit between the balancer and the pulley.
