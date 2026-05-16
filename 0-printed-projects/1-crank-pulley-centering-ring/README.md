@@ -9,27 +9,43 @@ The part was printed with slim tree supports. Those supports left residue on one
 
 ## Gallery
 
-### Timelapse 
-<p align="left">
-  <img src="accessory-belt-on-pulley.gif" height="200" alt="Accessory belt on pulley timelapse">
-  <img src="centering-ring-3d-printed-with-supports.gif" height="200" alt="3D print timelapse">
+### Timelapse
+<p align="left" style="margin:0;">
+  <span style="display:inline-block; margin:0 1rem; vertical-align:top; text-align:center;">
+    <img src="accessory-belt-on-pulley.gif" height="200" alt="Accessory belt on pulley timelapse">
+  </span>
+  <span style="display:inline-block; margin:0 1rem; vertical-align:top; text-align:center;">
+    <img src="centering-ring-3d-printed-with-supports.gif" height="200" alt="3D print timelapse">
+  </span>
 </p>
 
 ### Model & Fitment
-<img src="centering-ring-f360.png" height="200" alt="Model">
-<img src="3d-printed-centering-ring-fit-in-pulley.png" height="200" alt="model fitment on pulley">
-<img src="balancer-depth-measured-with-feeler-gauge.png" height="200" alt="Balancer being measured">
+<p align="left" style="margin:0;">
+  <span style="display:inline-block; margin:0 1rem; vertical-align:top; text-align:center;">
+    <img src="centering-ring-f360.png" height="200" alt="Model">
+  </span>
+  <span style="display:inline-block; margin:0 1rem; vertical-align:top; text-align:center;">
+    <img src="3d-printed-centering-ring-fit-in-pulley.png" height="200" alt="model fitment on pulley">
+  </span>
+  <span style="display:inline-block; margin:0 1rem; vertical-align:top; text-align:center;">
+    <img src="balancer-depth-measured-with-feeler-gauge.png" height="200" alt="Balancer being measured">
+  </span>
+</p>
 
 ### Tools
 
-<p align="left">
-  <figure style="display:inline-block; margin:0 1rem; text-align:center;">
+<p align="left" style="margin:0;">
+  <figure style="display:inline-block; margin:0 1rem; text-align:center; vertical-align:top;">
     <img src="digital-caliper.png" height="200" alt="Caliper">
     <figcaption>Digital Caliper</figcaption>
   </figure>
-  <figure style="display:inline-block; margin:0 1rem; text-align:center;">
+  <figure style="display:inline-block; margin:0 1rem; text-align:center; vertical-align:top;">
     <img src="feeler-gauge.png" height="200" alt="Feeler Gauge">
     <figcaption>Feeler Gauge</figcaption>
+  </figure>
+    <figure style="display:inline-block; margin:0 1rem; text-align:center; vertical-align:top;">
+    <img src="dial-indicator.png" height="200" alt="Dial-indicator">
+    <figcaption>Dial Indicator</figcaption>
   </figure>
 </p>
 
