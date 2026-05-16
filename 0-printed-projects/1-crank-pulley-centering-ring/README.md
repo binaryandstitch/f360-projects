@@ -7,18 +7,6 @@ A dial indicator showed a 0.05" wobble before the centering ring was installed. 
 
 The part was printed with slim tree supports. Those supports left residue on one side of the outer ring, so the face is no longer perfectly flush. Additional support, cleanup experiments, and testing fillet angles are planned.
 
-
-## Files
-- [crank-pulley-centering-ring.stl](crank-pulley-centering-ring.stl) - The final 3D printable model.
-- [centering-ring-f360.png](centering-ring-f360.png) - Screenshot of the model in Fusion 360.
-- [centering-ring-3d-printed-with-supports.gif](centering-ring-3d-printed-with-supports.gif) - Animated timelapse of the 3D printing process.
-- [accessory-belt-on-pulley.gif](accessory-belt-on-pulley.gif) - Animated view of the accessory belt on the pulley.
-- [3d-printed-centering-ring-fit-in-pulley.png](3d-printed-centering-ring-fit-in-pulley.png) - Verification of the ring fitting into the pulley.
-- [digital-caliper.png](digital-caliper.png) - Digital caliper used for precision measurements.
-- [feeler-gauge.png](feeler-gauge.png) - Feeler gauge used for measuring depth.
-- [balancer-depth-measured-with-feeler-gauge.png](balancer-depth-measured-with-feeler-gauge.png) - Measurement of the balancer depth.
-- [measurements-and-calculations.png](measurements-and-calculations.png) - Summary of all measurements and calculations.
-
 ## Gallery
 
 ### Timelapse 
@@ -60,3 +48,15 @@ The following image details the precision measurements taken with calipers and f
 | Total Depth | 8.07 | Calculation | Target combined thickness for flush fit |
 
 Raw data and tabulated measurements: [measurements-and-calculations.csv](measurements-and-calculations.csv)
+
+
+## Files
+- [crank-pulley-centering-ring.stl](crank-pulley-centering-ring.stl) - The final 3D printable model.
+- [centering-ring-f360.png](centering-ring-f360.png) - Screenshot of the model in Fusion 360.
+- [centering-ring-3d-printed-with-supports.gif](centering-ring-3d-printed-with-supports.gif) - Animated timelapse of the 3D printing process.
+- [accessory-belt-on-pulley.gif](accessory-belt-on-pulley.gif) - Animated view of the accessory belt on the pulley.
+- [3d-printed-centering-ring-fit-in-pulley.png](3d-printed-centering-ring-fit-in-pulley.png) - Verification of the ring fitting into the pulley.
+- [digital-caliper.png](digital-caliper.png) - Digital caliper used for precision measurements.
+- [feeler-gauge.png](feeler-gauge.png) - Feeler gauge used for measuring depth.
+- [balancer-depth-measured-with-feeler-gauge.png](balancer-depth-measured-with-feeler-gauge.png) - Measurement of the balancer depth.
+- [measurements-and-calculations.png](measurements-and-calculations.png) - Summary of all measurements and calculations.
