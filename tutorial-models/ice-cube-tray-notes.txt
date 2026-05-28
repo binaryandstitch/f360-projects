@@ -1,0 +1,43 @@
+5 - ice cube tray
+
+part design
+3d block then remove material
+
+click R > bottom origin > center rectangle (leverage origin planes to sketch)
+104 mm x 300 mm
+extrude > 50 mm
+
+ice cube cut out
+top > right click > create sketch > R > 2point r > 40mmx30mm > esc to clear command
+able to free move sketch around
+mesh sketch dimension > top sketch and top body > 7mm > left sketch, left body > click other dimension so it keeps it's cell
+keeping its scale allow you to dynamically change both at the same time creating a new function
+extrude (e) > click sketch to extrude > operation cut > distance > -30 mm to cut inside a body 
+> taper angle to allow ice to fall from tray > -10 degrees > click ok
+solid fillet > click all faces (4) > 4mm > corner type > rolling ball
+solid modeling > rectangular pattern > object type > features > features allows you to select extrude and fillet in timeline
+- fillets can cause problems in more complex assemblies, but for simple files there should be no performance problems
+> axes > select two edges of entire body to drag directional arrows for the ice cube to verify directions> define extent (length ) distance 255 
+axis 2, quantity 2 > extent distance 50 mm 
+> compute type (may affect performace > optimized ( computes the fastest ) > click ok
+
+exterior shell
+solid shell > select 4 side faces and bottom face of total body > shell thickness > 2 mm
+-this leaves only the defined thickness
+
+add flange to outer perimeter by sketching a profile and sweeping the outer edge
+round four corners
+solid modeling fillet > select each conrner vertical edgea of body > fillet radius > 10 mm
+sweeping profile
+we started with a centering rectangle so we can use the origin folder to our advantage
+origin > XZ plane click > create sketch > left side view > line tool > upper edge 
+> sketch a backwards L with perpendicular contraints to each corner
+> activate sketch dimension tool ( mesh, d ) >  define dimmensions > set top to 2mm > equal contrainst > click one and set another 
+> coincident contraint to force points to stay together > select two points and they will snap together > sketch will now display as locked
+> solid sweep > profile > select sktetch > view part from home > path selector > confirm chain selection to select entire edge of body with one click 
+> distance > 1 (1 means sweep 100 percent of the whole selection) > operation > join (to join to the existing body selected)
+> solid fillet > select edges > 1mm (to prevent sharp edges)
+
+
+
+
